@@ -1,0 +1,3 @@
+curl --dump-header - -H "Content-Type: application/json" -X POST --data '{"username": "tuent"}'  http://127.0.0.1:8000/controller/game_user/
+
+curl --dump-header - -H "Content-Type: application/json" -X POST --data '{"username": "tuent"}'  http://127.0.0.1:8000/api/notice_url_ios_appvn/
